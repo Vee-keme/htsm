@@ -1,6 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-momopanel.com	TRUE	/	FALSE	1999999999	PHPSESSID	fjqpne1g7s6ujkmb0ik660s58s
-momopanel.com	TRUE	/	FALSE	1999999999	_csrf	c5ff2dc72758e0d115b5d82efbb758b2ac164a37b10150e8dbc54c822247b6a8a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%228acBixKVu4ZlepdrQmJT7UJu6uRi9z_m%22%3B%7D
-momopanel.com	TRUE	/	FALSE	1999999999	SameSite	Lax
-
